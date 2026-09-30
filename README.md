@@ -1,9 +1,8 @@
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I'm%20[AYAN KHAN]&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there%2C%20I'm%20Ayan%20Khan&fontSize=40&fontAlignY=35&animation=fadeIn" width="100%" />
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;CSS+%26+JavaScript+Frameworks+Lover;Building+Modern+Web+Apps)](https://git.io/typing-svg)
-
 
 </div>
 
@@ -11,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I build fast, responsive, and modern **web applications** using the latest CSS and JavaScript frameworks. Clean code, pixel-perfect UI, and smooth user experience is my priority.
+I'm **Ayan Khan**, a Full Stack Web Developer. I build fast, responsive, and modern **web applications** using the latest CSS and JavaScript frameworks. Clean code, pixel-perfect UI, and smooth user experience is my priority.
 
 ---
 
