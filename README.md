@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Web & App Developer
 
-I build fast, scalable, and user-friendly **web and mobile applications** from the database all the way to the UI. I love turning ideas into clean, production-ready products.
+I build fast, scalable, and user-friendly **web applications** from the database all the way to the UI. I love turning ideas into clean, production-ready products.
 
 ---
 
@@ -28,9 +28,7 @@ I build fast, scalable, and user-friendly **web and mobile applications** from t
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Mobile:**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 **Database & Tools:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
